@@ -1,4 +1,4 @@
-<B>Five Steps to deploy STRAPPD in your local community to help Homeless people find resources close to them.</B>
+<B>Five Steps to deploy <a href = "https://strappd.org">STRAPPD</a> in your local community to help Homeless people find resources close to them.</B>
 
 1. Install <a href = "https://nodejs.org/en/download/"> Node.js</a>, <a href = "https://cordova.apache.org/">Cordova</a>(npm -g install cordova ), <a href = "https://ionicframework.com/getting-started">Ionic</a>(npm install -g ionic@1.6.0 ), <a href = "https://bower.io/">Bower</a>(npm install -g bower) & <a href = "https://gulpjs.com/">Gulp</a>(npm install -g gulp). 
 
@@ -11,4 +11,4 @@
 5. To <a href="https://firebase.google.com/docs/hosting/">Host the web app</a> on Firebase, Install <a href="https://firebase.google.com/docs/cli/">Firebase CLI</a>(npm install -g firebase tools), firebase login & init in project folder, install npm dependencies, select www as public directory and run Firebase Deploy. 
 
 
-You can also add <a href="https://analytics.google.com/analytics/web">Google Analytics</a> to the index.html head tag to get Analytics Info about the app.
+After deployement, try to create a new login from the web app and update IsAdmin Key value to 1 under users in database tab in firebase console to give admin privileges to newly created login. You can refer to this <a href="https://drive.google.com/file/d/1-ubNllqBfgV0OeXO5iYAKOHCPDPTL-0S/view">Strappd User Document</a> or <a href="https://www.youtube.com/watch?v=3sI93VJ-g0M">1-minute Video</a> to checkout various features of the app. You can also Connect <a href="https://firebase.google.com/docs/hosting/custom-domain">Custom Domain</a> in firebase and add <a href="https://analytics.google.com/analytics/web">Google Analytics</a> in index.html to get usage stats. 
