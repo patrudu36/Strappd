@@ -2,7 +2,7 @@
 
 1. Install <a href = "https://nodejs.org/en/download/"> Node.js</a>, <a href = "https://cordova.apache.org/">Cordova</a>(npm -g install cordova ), <a href = "https://ionicframework.com/getting-started">Ionic</a>(npm install -g ionic@1.6.0 ), <a href = "https://bower.io/">Bower</a>(npm install -g bower) & <a href = "https://gulpjs.com/">Gulp</a>(npm install -g gulp). 
 
-2. Signup for <a href="https://accounts.google.com/signup">Google account</a>, add <a href="https://console.firebase.google.com">New Firebase Project</a>, Create a <a href="https://firebase.google.com/docs/database/">Realtime Database</a> & Import <a href="">testdata</a> into databse. Please make sure to enable the Email/Password in the Sign-in Method Tab under Authentication tab in Firebase console.
+2. Signup for <a href="https://accounts.google.com/signup">Google account</a>, add <a href="https://console.firebase.google.com">New Firebase Project</a>, Create a <a href="https://firebase.google.com/docs/database/">Realtime Database</a> & Import <a href="">testdata</a> into database. Please make sure to enable the Email/Password in the Sign-in Method Tab under Authentication tab in Firebase console.
 
 3. Update the https://yourproject.firebaseio.com/ variable at line 1(“var refurl”) in www/js/app.js with your RealTime Database Link from firebase console.
 
