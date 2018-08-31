@@ -4,7 +4,7 @@
 
 2. Signup for <a href="https://accounts.google.com/signup">Google account</a>, add <a href="https://console.firebase.google.com">New Firebase Project</a>, Create a <a href="https://firebase.google.com/docs/database/">Realtime Database</a> & Import <a href="">testdata</a> into database. Please make sure to enable the Email/Password in the Sign-in Method Tab under Authentication tab in Firebase console.
 
-3. Update the https://yourproject.firebaseio.com/ variable at line 1(“var refurl”) in www/js/app.js with your RealTime Database Link from firebase console.
+3. Download the STRAPPDv5.zip from github and Update the https://yourproject.firebaseio.com/ variable at line 1(“var refurl”) in www/js/app.js with your RealTime Database Link from firebase console.
 
 4. Replace script at lines 30-42 in www/index.html with <a href="https://firebase.google.com/docs/web/setup">WebSetup code</a> from firebase console in Authentication tab. Also, change the “YOUR_API_KEY” value at line 90 with your <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">Google Maps API key</a>. 
 
