@@ -1,0 +1,245 @@
+{
+  "charity" : {
+    "-LLhLpcgzcWB5BuUkR6O" : {
+      "address1" : "101 14th Ave",
+      "approved" : 1,
+      "category" : "Men,Women,Kids,Seniors,Families,Veterans,LGBT+,All",
+      "charityname" : "Lorem ipsum dolor sit amet",
+      "city" : "Denver",
+      "closeschedule" : [ {
+        "day" : "Wednesday",
+        "period" : "First",
+        "type" : "Monthly"
+      } ],
+      "contact" : false,
+      "description" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "email" : "info@strappd.org",
+      "facebook" : "http://facebook.com/strappdapp",
+      "kudos" : 0,
+      "lat" : 39.7377978,
+      "lng" : -104.9888512,
+      "phone" : "303-555-5555",
+      "schedule" : [ {
+        "day" : "Monday",
+        "fromstring" : "10:00 AM",
+        "tostring" : "12:00 PM",
+        "type" : "Weekly"
+      }, {
+        "day" : "Wednesday",
+        "fromstring" : "5:00 PM",
+        "tostring" : "6:00 PM",
+        "type" : "Weekly"
+      }, {
+        "day" : "Friday",
+        "fromstring" : "10:00 AM",
+        "tostring" : "6:00 PM",
+        "type" : "Weekly"
+      }, {
+        "day" : "Sunday",
+        "fromstring" : "7:00 PM",
+        "tostring" : "9:00 PM",
+        "type" : "Weekly"
+      } ],
+      "selectedAll" : true,
+      "service" : "Food,Shelter,Resources",
+      "servicetype" : "Meals, Clothing, Restrooms, Computers, Wi-Fi, Drop-In Center, & more",
+      "showflag" : true,
+      "state" : "CO",
+      "twitter" : "https://twitter.com/StrappdApp",
+      "updateshelter" : "09/05/2018 11:19 PM",
+      "useremail" : "test1@gmail.com",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org",
+      "zip" : 80204
+    },
+    "-LLhNQwXY_i-BBShp5D7" : {
+      "Age" : "Ages 18 & above",
+      "address1" : "8051 E Quincy Ave",
+      "approved" : 1,
+      "avaibed" : 0,
+      "category" : "Women,Kids,LGBT+",
+      "charityname" : "Erat pellentesque adipiscing",
+      "city" : "Denver",
+      "description" : "Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Arcu non sodales neque sodales ut etiam sit amet nisl. Vel eros donec ac odio tempor orci dapibus.",
+      "email" : "info@strappd.org",
+      "facebook" : "http://facebook.com/strappdapp",
+      "lat" : 39.6387309,
+      "lng" : -104.89404150000001,
+      "schedule" : [ {
+        "type" : "Open 24/7"
+      } ],
+      "selectedAll" : false,
+      "service" : "Food,Shelter,Work",
+      "servicetype" : "Transitional Shelter, Food Pantry, Job Assistance, GED Training",
+      "showflag" : true,
+      "state" : "CO",
+      "totalbed" : 25,
+      "twitter" : "https://twitter.com/StrappdApp",
+      "useremail" : "test1@gmail.com",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org",
+      "zip" : 80237
+    },
+    "-LLhQBoVG4PRGtMcHQJn" : {
+      "Age" : "Ages 55+",
+      "address1" : "1236 Canyon Blvd",
+      "approved" : 1,
+      "category" : "Seniors,Veterans",
+      "charityname" : "Pretium aenean pharetra magna",
+      "city" : "Boulder",
+      "contact" : true,
+      "description" : "\"Pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Lorem dolor sed viverra ipsum. Suscipit adipiscing bibendum est ultricies integer. Placerat vestibulum lectus mauris ultrices eros in cursus turpis.\"",
+      "email" : "strappdapp@gmail.com",
+      "facebook" : "http://facebook.com/strappdapp",
+      "lat" : 40.015497,
+      "lng" : -105.27845100000002,
+      "selectedAll" : false,
+      "service" : "Food,Health",
+      "servicetype" : "Emergency Food Assistance(SNAP), Medical & Dental Clinic, Substance Abuse Treatment",
+      "showflag" : true,
+      "state" : "CO",
+      "twitter" : "https://twitter.com/StrappdApp",
+      "useremail" : "test1@gmail.com",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org",
+      "zip" : 80302
+    },
+    "-LLhREsyec_a1K5xMe1V" : {
+      "Age" : "Ages 13-24",
+      "address1" : "2848 9th St",
+      "approved" : 1,
+      "avaibed" : 20,
+      "category" : "Kids",
+      "charityname" : "Tortor id aliquet lectus proin",
+      "city" : "Boulder",
+      "description" : "\"Tortor id aliquet lectus proin nibh nisl condimentum. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est. Hendrerit dolor magna eget est lorem ipsum. Imperdiet massa tincidunt nunc pulvinar sapien et ligula.\"",
+      "email" : "info@strappd.org",
+      "facebook" : "http://facebook.com/strappdapp",
+      "lat" : 40.0276804,
+      "lng" : -105.28530490000003,
+      "phone" : "303-555-5555",
+      "schedule" : [ {
+        "type" : "Open 24/7"
+      } ],
+      "selectedAll" : false,
+      "service" : "Shelter",
+      "servicetype" : "Emergency Shelter",
+      "showflag" : true,
+      "state" : "CO",
+      "totalbed" : 50,
+      "twitter" : "https://twitter.com/StrappdApp",
+      "useremail" : "test1@gmail.com",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org",
+      "zip" : 80304
+    },
+    "-LLhV2-5RQwkqU5UVpY7" : {
+      "address1" : "3160 Airport Rd",
+      "approved" : 0,
+      "category" : "Men,Women,Kids,Seniors,Families,Veterans,LGBT+,All",
+      "charityname" : "Cursus euismod quis",
+      "city" : "Boulder",
+      "description" : "Cursus euismod quis viverra nibh. Elementum sagittis vitae et leo duis ut diam quam. Gravida cum sociis natoque penatibus et magnis dis. Mollis nunc sed id semper.",
+      "email" : "info@strappd.org",
+      "facebook" : "http://facebook.com/strappdapp",
+      "kudos" : 0,
+      "lat" : 40.031694,
+      "lng" : -105.2319799,
+      "phone" : "303-555-5555",
+      "schedule" : [ {
+        "day" : "Saturday",
+        "fromstring" : "10:00 AM",
+        "period" : "First",
+        "tostring" : "4:00 PM",
+        "type" : "Monthly"
+      } ],
+      "selectedAll" : true,
+      "service" : "Food,Resources",
+      "servicetype" : "Soup Kitchen, Legal Assistance",
+      "showflag" : true,
+      "state" : "CO",
+      "twitter" : "https://twitter.com/StrappdApp",
+      "updateshelter" : "09/06/2018 12:01 AM",
+      "useremail" : "test1@gmail.com",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org",
+      "zip" : 80301
+    }
+  },
+  "crisisline" : {
+    "-LLhVLBGsVSUvImHH94j" : {
+      "area" : "US",
+      "chatweblink" : "",
+      "createdate" : 1536214208408,
+      "description" : "This is where Crisis Lines can be added.",
+      "hour" : "24/7",
+      "name" : "City Crisis Line",
+      "phone" : "303-555-5555",
+      "text" : "",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org"
+    },
+    "-LLhWJ-erbp6rQhuFbDj" : {
+      "area" : "US",
+      "chatweblink" : "https://strappd.org",
+      "createdate" : 1536214410149,
+      "description" : "Sollicitudin tempor id eu nisl nunc mi ipsum. Nullam ac tortor vitae purus faucibus ornare suspendisse. Nibh nisl condimentum id venenatis a condimentum.",
+      "hour" : "M-F 9PM -9AM",
+      "name" : "Nearby Hotlines",
+      "phone" : "303-555-5555",
+      "text" : "",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62",
+      "website" : "https://strappd.org"
+    }
+  },
+  "feedback" : {
+    "-LLhT9F2vSJnYCyNYdsn" : {
+      "createdate" : 1536213689438,
+      "email" : "info@strappd.org",
+      "lat" : 32.828620799999996,
+      "lng" : -117.14478079999999,
+      "message" : "This is where you will receive service feedback.",
+      "name" : "Service Feedback",
+      "phone" : "303-555-5555",
+      "subject" : "Lorem ipsum dolor sit amet",
+      "type" : 3,
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62"
+    },
+    "-LLhTt4ZUTLgP4f5fRbC" : {
+      "createdate" : 1536213823029,
+      "email" : "info@strappd.org",
+      "message" : "This is where you would receive App Feedback.",
+      "subject" : "App Feedback Msg",
+      "type" : 1
+    },
+    "-LLhVdKh-ayrL46O7a6R" : {
+      "createdate" : 1536214341064,
+      "email" : "StrappdApp@gmail.com",
+      "lat" : 0,
+      "lng" : 0,
+      "message" : "This is where you can archive the feedback messages.",
+      "name" : "Archive Feedback",
+      "phone" : "",
+      "subject" : "Pretium aenean pharetra magna",
+      "type" : 9,
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62"
+    }
+  },
+  "staticpages" : {
+    "about" : {
+      "content" : "<p>STRAPPD is a mobile app that can help people in need to locate services where they can find Food, Shelter, Health, Resources and Work. Users can switch from List View to Map View and Vice versa and can filter services that are just open from the side menu. Users can click on any of the services to get detailed info like description, contact info, transit directions and schedule for that particular service. </p><p> If you would like to contact any of the service directly, you can click on the Flag button. Users can click on Kudos button to show appreciation for the services they like. If you want to mark any service for future reference, click on the star icon at the top right in respective service detail page to see them in My Favorites page. Data for STRAPPD is collected from various sources and is updated constantly. </p> <p> If you are doing community service and are interested in listing your service, you can add/manage a service by signing up and clicking on login from the side menu.  You can also update the number of beds available for shelters that you add. All the details entered by the community service for the first time will take some time to get approved before getting added to the list. If you have any questions or see information that is not up to date, please report changes using Give Feedback in side menu. This app works better in Chrome if accessed via web browser. </p>"
+    },
+    "terms" : {
+      "content" : "<p> STRAPPD provides its services on this app subject to the following terms of use. We may periodically change the terms, so please check back from time to time. By accessing this app, you agree to these terms. You should use this app only as a directory to locate Food, Shelter, Health, Work and other Resources. STRAPPD reserves the right to add, modify or delete services or feedback contained in this App at any time without any liability. </p><p> STRAPPD disclaims any liability from the use of this app and all the info is provided as-is with no warranties. Services listed on this app are not affiliated with STRAPPD. You agree that under no circumstances STRAPPD will be liable for any loss or damage of any kind whatsoever that occur from the use of this app. The links provided within the app to third party sites are not under our control and it doesn’t mean any endorsement nor are we responsible for the contents in these links. </p><p> STRAPPD uses the location of your mobile devices to show the services that are closest to you. Apart from location, STRAPPD may also collect information about you that you disclose through feedback form. By using this app, you authorize us to access your location, feedback and any such information. Service providers that are listed in the app may help ensure in keeping the details up-to-date. We try to make sure that the information is up-to-date, however STRAPPD is not responsible for any misinformation in this app. </p>"
+    }
+  },
+  "users" : {
+    "7YWeTgeqwmfV5Yadpgqb56ZemC62" : {
+      "email" : "test1@gmail.com",
+      "isadmin" : 1,
+      "name" : "test1",
+      "phone" : "303",
+      "userid" : "7YWeTgeqwmfV5Yadpgqb56ZemC62"
+    }
+  }
+}
